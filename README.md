@@ -27,3 +27,9 @@ This is a **learning project** where I practice recreating *Template Three* from
 - Practice responsive design for multiple screen sizes.  
 - Keep code organized and maintainable.  
 - Understand how to use the assets (images, fonts, etc.) properly.
+
+---
+
+## 🙌 Credits
+
+- **Elzero Web School** — for the Template Three design and instruction.  
